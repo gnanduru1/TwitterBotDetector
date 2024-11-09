@@ -1,0 +1,6 @@
+- Download TwiBot-22: https://drive.google.com/drive/u/1/folders/1YwiOUwtl8pCd2GD97Q_WEzwEUtSPoxFs?usp=sharing&pli=1
+    Request access
+- Make a graph with user nodes and tweet nodes
+- Use distilbert to generate tweet embeddings
+- Compress graph with GraphSAGE
+- Feed compressed graph into Graph Attention Network
